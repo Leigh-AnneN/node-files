@@ -1,0 +1,15 @@
+{
+  "name": "node-files",
+  "version": "1.0.0",
+  "description": "node exercise",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-files"
+  },
+  "author": "",
+  "license": "ISC"
+}
